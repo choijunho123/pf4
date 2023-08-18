@@ -1,0 +1,33 @@
+#middle {
+  
+}
+#middle div.wrap {
+
+}
+#middle div.wrap article {
+
+}
+#middle div.wrap article h2 {
+
+}
+#middle div.wrap article p {
+
+}
+#middle div.wrap article ul {
+  display: block;
+  line-height: 1.5;
+  font-size: 20px;
+}
+#middle div.wrap article ul li {
+
+}
+#middle div.wrap article ul li h3 {
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: gray;
+}
+#middle div.wrap article ul li p {
+  color: black;
+}
